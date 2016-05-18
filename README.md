@@ -32,3 +32,9 @@ Install crypto
 `
 npm install crypto
 `
+
+## Chat App
+
+`
+npm install node-validator
+`
