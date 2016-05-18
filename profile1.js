@@ -1,6 +1,10 @@
 'use strict';
 
 const express = require('express');
+const crypto = require('crypto');
+
+// Variables
+var users = {};
 
 // Constants
 const IP = '0.0.0.0';
