@@ -10,10 +10,11 @@ The guide page is good place to start:
 
 
 Running a program:
-
+`
 node profile1.js
-Running on http://0.0.0.0:8888
-
+# Running on http://0.0.0.0:8888
+`
 or, setting "production" environment variable
-
+`
 NODE_ENV=production node profile1.js
+`
